@@ -1,3 +1,5 @@
+![Lucid Software + Mobile](https://github.com/lucidsoftware/auto-renewing-subscription-demo/blob/master/lucid.png "Lucid Software + Mobile")
+
 # Auto-Renewable Subscriptions; A Demo
 
 Adding In-app Purchases to an iOS app is hard to get right. This short demo will show how the Lucidchart iOS app handles in-app purchases as well as shares the majority of the code.
