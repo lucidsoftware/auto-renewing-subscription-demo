@@ -2,7 +2,7 @@
 
 
 
-# Auto-Renewable Subscriptions; A Demo
+# Tutorial: Auto-Renewable Subscriptions
 
 Adding In-app Purchases to an iOS app is hard to get right. This short demo will show how the Lucidchart iOS app handles in-app purchases as well as shares the majority of the code.
 
