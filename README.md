@@ -1,4 +1,4 @@
-![Lucid Software + Mobile](https://github.com/lucidsoftware/auto-renewing-subscription-demo/blob/master/lucid.png "Lucid Software + Mobile")
+![Lucid Software + Mobile](https://github.com/lucidsoftware/auto-renewing-subscription-demo/blob/master/lucid.png =382x107 "Lucid Software + Mobile")
 
 
 
